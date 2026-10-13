@@ -2,7 +2,7 @@
 
 💻 **Senior Frontend Developer** | ⚛️ React Enthusiast
 
-I’m a **Senior Frontend Developer** with **7+ years of experience** building scalable and performant web apps using **React, TypeScript, and modern frontend tools**.  
+I’m a **Senior Frontend Developer** with **8+ years of experience** building scalable and performant web apps using **React, TypeScript, and modern frontend tools**.  
 Passionate about clean code, performance optimization, and contributing to open-source projects.  
 
 ---
